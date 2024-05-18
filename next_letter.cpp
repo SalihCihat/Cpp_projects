@@ -35,14 +35,3 @@ int main(){
 
     return 0;
 }
-
-
-/*#include <iostream>
-
-int main(){
-
-    int letter = 'a';
-    std::cout << letter << std::endl;
-
-    return 0;
-} */
